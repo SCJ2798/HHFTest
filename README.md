@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![Alt text](/ss/a.jpg "Optional title")
+<img src="ss/a.jpg" width="50px" />
