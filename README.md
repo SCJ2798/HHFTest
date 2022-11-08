@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-<img src="ss/a.jpg" width="50px" />
+<img src="ss/a.jpg" width="200px" />
